@@ -64,7 +64,6 @@ const WorldClock = () => {
         <div className="hidden lg:flex justify-center items-center gap-6 font-nokie tracking-wider text-3xl">
           <Link to="/">Home</Link>
           <Link to="/digital-clock">Digital Clock</Link>
-          <Link to="/city-clocks">City Clocks</Link>
         </div>
       </div>
       <div className="w-full">

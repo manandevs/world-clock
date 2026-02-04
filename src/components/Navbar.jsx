@@ -14,7 +14,6 @@ const Navbar = ({ is24h, setIs24h }) => {
       <div className="hidden lg:flex justify-center items-center gap-6 font-nokie tracking-wider">
         <Link to="/">Home</Link>
         <Link to="/digital-clock">Digital Clock</Link>
-        <Link to="/city-clocks">City Clocks</Link>
       </div>
 
       <div className="grid grid-cols-2 rounded-2xl overflow-hidden text-3xl font-nokie bg-amber-300 p-1 shadow">
