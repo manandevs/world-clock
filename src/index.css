@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body{
+  font-family: "nokie";
+}
+
+@font-face {
+  font-family: "golden-antique";
+  src: url("/fonts/golden-antique.otf");
+}
+
+@font-face {
+  font-family: "nokie";
+  src: url("/fonts/nokie.otf");
+}
+
+.font-golden-antique {
+  font-family: "golden-antique";
+}
+
+.font-nokie {
+  font-family: "nokie";
+}
